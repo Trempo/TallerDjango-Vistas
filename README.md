@@ -5,7 +5,7 @@ UPDATE:
 ![Foto del update](/entregables/UPDATE.png)
 
 GET DE LISTA:
-![Foto del GET_LISTA](/entregables/GET_LISTA.png)
+![Foto del GET_LISTA](/entregables/GET_LIST.png)
 
 GET POR ID:
 ![Foto del GET_ID](/entregables/GET_ID.png)
